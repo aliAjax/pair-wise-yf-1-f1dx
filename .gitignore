@@ -1,0 +1,18 @@
+# Common local artifacts
+.DS_Store
+Thumbs.db
+node_modules/
+vendor/
+dist/
+build/
+out/
+coverage/
+.cache/
+.env
+.env.*
+!.env.example
+*.log
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
